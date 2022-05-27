@@ -1,3 +1,3 @@
-      •   Music Video Player    •
+        •    Video Player    •
 
 
