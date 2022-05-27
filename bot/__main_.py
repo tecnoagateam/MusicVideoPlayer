@@ -1,5 +1,5 @@
 # Hələ Hazırlanır...
-# proqramcı @AzeMusic
+# proqramcı @Tenha055
 # bot --version 
 
 import asyncio
