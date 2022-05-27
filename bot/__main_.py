@@ -1,6 +1,6 @@
-# ===========
-# running bot
-# ===========
+# Hələ Hazırlanır...
+# proqramcı @AzeMusic
+# bot --version 
 
 import asyncio
 from pyrogram import Client, idle
